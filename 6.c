@@ -4,7 +4,7 @@ int main()
 {
 	char n;
 	int i,j;
-	printf("°ªÀ» ÀÔ·ÂÇÏ¼¼¿ä: ");
+	printf("ê°’ì„ ì…ë ¥í•˜ì„¸ìš”: ");
 	n = getchar();
 	i = n - 48;
 	for (j = 1; j <= i; j++) {
